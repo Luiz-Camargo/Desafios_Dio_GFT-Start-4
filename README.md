@@ -1,4 +1,29 @@
 <h1 align="center">Desafios e Soluções - GFT Start #4 .NET :books:</h1>
+   
+  <a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/stargazers">
+    <img src="https://img.shields.io/github/stars/Luiz-Camargo/Desafios_Dio_GFT-Start-4?style=social" title="Stars" alt="Stars" /> 
+  </a>
+    
+  <a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Luiz-Camargo/Desafios_Dio_GFT-Start-4" title="License" alt="License" /> 
+  </a>
+ 
+  <a href="#">
+    <img src="https://img.shields.io/github/languages/count/Luiz-Camargo/Desafios_Dio_GFT-Start-4" title="Language Count" alt="Language Count" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/github/languages/top/Luiz-Camargo/Desafios_Dio_GFT-Start-4" title="Top Language" alt="Top Language" />
+  </a>
+
+  <a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4">
+    <img src="https://img.shields.io/github/languages/code-size/Luiz-Camargo/Desafios_Dio_GFT-Start-4" title="Code Size" alt="Code Size in Bytes" />
+  </a>
+     
+  <a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Luiz-Camargo/Desafios_Dio_GFT-Start-4" title="Last Commit" alt="Last Commit" />
+  </a>
+</p>
 
 <!-- C Sharp -->
 <details>
