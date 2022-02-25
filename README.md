@@ -1,4 +1,4 @@
-<h1 align="center">Desafios e Soluções :books:</h1>
+<h1 align="center">Desafios e Soluções - GFT Start #4 .NET :books:</h1>
 
 <!-- C Sharp -->
 <details>
@@ -22,19 +22,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Mês</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/01.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/blob/main/Desafios/C%20Sharp/01.%20Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/1.%20M%C3%AAs/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/01.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/blob/main/Desafios/C%20Sharp/01.%20Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/2.%20Quadrado%20e%20ao%20Cubo/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
-                <td>Soma de Pares Consectivos</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/01.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>
+                <td>Soma de Pares Consecutivos</td>
+                <td><a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/blob/main/Desafios/C%20Sharp/01.%20Desafios%20Iniciais%20-%20GFT%20Start%20%234%20.NET/3.%20Soma%20de%20Pares%20Consecutivos/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
         </table>
     </details>
