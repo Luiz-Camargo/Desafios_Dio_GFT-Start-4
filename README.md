@@ -1,5 +1,6 @@
 <h1 align="center">Desafios e Soluções - GFT Start #4 .NET :books:</h1>
-   
+
+<p align="center">  
   <a href="https://github.com/Luiz-Camargo/Desafios_Dio_GFT-Start-4/stargazers">
     <img src="https://img.shields.io/github/stars/Luiz-Camargo/Desafios_Dio_GFT-Start-4?style=social" title="Stars" alt="Stars" /> 
   </a>
